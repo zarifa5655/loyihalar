@@ -12,6 +12,7 @@ function Navbar4() {
   return (
     <div className="shadow-[0px_-1px_0px_0px_#E4E7E9_inset] border border-[#E4E7E9]  w-full  ">
       <div className=" w-[1320px] m-auto py-4 flex items-center justify-between gap-6  text-[#5F6C72] text-3.5 ">
+ 
         <div className="flex items-center gap-1.5">
           <h1>ALL Category</h1>
           <FaArrowDown />

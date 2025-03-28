@@ -12,6 +12,7 @@ function Navbar2() {
     <div className="bg-[#1B6392] w-full flex justify-between items-center ">
       <div className="min-w-[1320px] m-auto flex items-center justify-between py-5 px-0">
 
+        
         <div>
           <h1 className="text-[14px] text-white">
             Welcome to Clicon online eCommerce store.{" "}

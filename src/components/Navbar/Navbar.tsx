@@ -8,6 +8,7 @@ function Navbar() {
           <button className="text-[#141414] text-[20px] bg-[#F3DE6D] pt-[6px] px-3 py-2 -rotate-3 w-[74px] h-[40px] ">
             Black
           </button>
+          
           <h1 className="text-white text-[24px]">Friday</h1>
         </div>
         <div className="w-[180px] h-[48px] flex items-center gap-[8px]">
