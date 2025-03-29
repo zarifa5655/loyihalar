@@ -12,6 +12,7 @@ function Navbar3() {
           <h1 className="text-white text-[32px]">CLICON</h1>
         </div>
 
+      
         
         <div className="bg-white py-3.5 min-w-[646px]  flex items-center rounded-[2px] justify-between px-[14px] cursor-pointer">
           <input

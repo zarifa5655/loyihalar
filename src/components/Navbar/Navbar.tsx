@@ -9,7 +9,7 @@ function Navbar() {
             Black
           </button>
           
-          <h1 className="text-white text-[24px]">Friday</h1>
+           <h1 className="text-white text-[24px]">Friday</h1>
         </div>
         <div className="w-[180px] h-[48px] flex items-center gap-[8px]">
           <h1 className="text-[14px] text-white ">Up to</h1>
