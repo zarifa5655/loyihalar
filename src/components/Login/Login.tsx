@@ -9,7 +9,7 @@ type Tlogin = {
 };
 function Login({ setShowLoginModal }: Tlogin) {
   const [Eya, setEya] = useState(false)
-    const { user } = useSelector((state: RootState) => state.user);
+    // const { user } = useSelector((state: RootState) => state.user);
   
   const naviget=useNavigate()
   const formSubmit = (event:React.FormEvent<HTMLFormElement>) => {
