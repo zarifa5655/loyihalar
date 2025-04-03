@@ -61,7 +61,7 @@ function Header() {
             <div className="mt-[47px] relativ">
               <img src={rasm2} alt="" />
               <button
-                className=" absolute top-5 right-115 text-[16px] text-[ #141414] bg-[#EFD33D] rounded-[2px] py-2 px-4 
+                className=" absolute top-90 right-125 text-[16px] text-[ #141414] bg-[#EFD33D] rounded-[2px] py-2 px-4 
               
               "
               >

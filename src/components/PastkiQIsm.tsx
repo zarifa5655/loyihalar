@@ -18,6 +18,9 @@ function PastkiQIsm() {
           </div>
         </div>
 
+
+        
+
         <div className="flex p-4 gap-[16px] border-r-1 items-center  pr-[50px] border-gray-300 justify-">
           <div>
             <img src={rasm2} alt="" />
@@ -32,6 +35,7 @@ function PastkiQIsm() {
           </div>
         </div>
 
+        
         <div className="flex p-4  border-gray-300 pr-[50px] gap-[16px] border-r-1 items-center justify-between">
           <div>
             <img src={rasm3} alt="" />
